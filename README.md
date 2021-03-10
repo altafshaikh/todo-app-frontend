@@ -1,7 +1,7 @@
 
 # Todo Frontend App
 
-This is a frintend application connected with a todo backend.
+This is a frontend application build using vanilla JS connected with a todo backend.
 
 ## Getting Started
 
