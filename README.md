@@ -5,8 +5,8 @@ This is a frintend application connected with a todo backend.
 
 ## Getting Started
 
-- [Check out the backend for todo](https://github.com/ialtafshaikh/todo-app-backend)
-- [Check the authentication backend code](https://github.com/ialtafshaikh/authentication-backend)
+- [Check out the backend for todo](https://github.com/altafshaikh/todo-app-backend)
+- [Check the authentication backend code](https://github.com/altafshaikh/nodejs-authentication-backend)
 
 **ToDo App** is simple and awesome **app** to organize your tasks with very easy to use interface. **ToDo** can help you to make **list** of your tasks
 
@@ -53,9 +53,6 @@ git clone https://github.com/ialtafshaikh/todo-app.git
 
 To Host the Project I had used Github Pages. To learn more [visit her](https://towardsdatascience.com/how-to-create-a-free-github-pages-website-53743d7524e1)
 
-## Live Demo of this Project
-
-[live hosted link](https://ialtafshaikh.github.io/todo-app-frontend/)
 
 ## References
 - [learn about fetch-api](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
@@ -72,7 +69,7 @@ To Host the Project I had used Github Pages. To learn more [visit her](https://t
 
 ## Author
 
-* **Altaf Shaikh** - *work by* - [ialtafshaikh](https://github.com/ialtafshaikh)
+* **Altaf Shaikh** - *work by* - [altafshaikh](https://github.com/altafshaikh)
 
 ![altaf shaikh](https://raw.githubusercontent.com/ialtafshaikh/static-files/master/coollogo_com-327551664.png)
 
